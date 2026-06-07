@@ -598,7 +598,7 @@ The frontend includes `frontend/vercel.json` with a rewrite to `index.html`. Mak
 
 ## Developer
 
-Developed by **Saurav Satpute**.
+Developed by **Aryawardhansingh Solanki**.
 
 ## License
 
