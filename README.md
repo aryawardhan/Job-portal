@@ -1,6 +1,6 @@
 # JobPortal - MERN Stack Job Portal Application
 
-Developer: **Saurav Satpute**
+Developer: *Aryawardhansingh Solanki**
 
 JobPortal is a full-stack job portal application built with MongoDB, Express.js, React.js, and Node.js. It supports role-based workflows for job seekers and employers, job posting, job search and filtering, resume upload, application status tracking, dashboards, Cloudinary file storage, and production deployment on Vercel and Render.
 
