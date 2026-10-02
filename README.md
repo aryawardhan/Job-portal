@@ -166,7 +166,7 @@ flowchart LR
 ### 1. Clone The Repository
 
 ```sh
-git clone https://github.com/sgsatpute/Job-portal.git
+git clone https://github.com/aryawardhan/Job-portal.git
 cd Job-portal
 ```
 
