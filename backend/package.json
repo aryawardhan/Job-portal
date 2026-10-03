@@ -11,7 +11,7 @@
     "start": "node server.js",
     "dev": "node server.js"
   },
-  "author": "Saurav Satpute",
+  "author": "Aayawardhansingh solanki",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^6.0.0",
